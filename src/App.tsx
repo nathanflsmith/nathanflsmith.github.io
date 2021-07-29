@@ -6,7 +6,7 @@ function App() {
       <header className="App-header">
         <h1>Under Construction</h1>
         <p>
-          Meanwhile, why not checkout my{' '}
+          Meanwhile, why not check out my{' '}
           <a
             className="App-link"
             href="https://github.com/nathanflsmith"
