@@ -63,3 +63,33 @@ header nav li {
   font-size: 1.25em;
   max-width: 50%;
 }
+
+.grid-container {
+  display: grid;
+  text-align: center;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
+}
+
+.grid-item {
+  width: 75%;
+  margin: 0 auto;
+}
+
+.project-item {
+  background: #8AB17D;
+  padding: 15px;
+  border-radius: 15px;
+}
+
+.project-title {
+  color: #fff;
+  font-family: 'Source Code Pro', monospace;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.project-img img {
+  width: 100%;
+  height: auto;
+}
