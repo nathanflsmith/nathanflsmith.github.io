@@ -1,1 +1,0 @@
-# nathanflsmith.github.io
